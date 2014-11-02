@@ -17,6 +17,8 @@ public class HelloWorld {
       //code from vm2
       System.out.println("Hello World!");
       //code form vm3
+      System.out.println("Hello World!"); 
+      //code from guang
       System.out.println("Hello World!");
       
 
