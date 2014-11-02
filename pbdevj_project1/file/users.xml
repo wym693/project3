@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Users> 
+  <user> 
+    <username>admin</username>  
+    <password>admin</password> 
+  </user>  
+  <user> 
+    <username>zhangsan</username>  
+    <password>1234</password> 
+  </user>  
+  <user> 
+    <username>lisi</username>  
+    <password>1234</password> 
+  </user>  
+  <user> 
+    <username>wangwu</username>  
+    <password>1234</password> 
+  </user>  
+  <user> 
+    <username>w</username>  
+    <password>w</password> 
+  </user>  
+  <user> 
+    <username>t</username>  
+    <password>t</password> 
+  </user>  
+  <user> 
+    <username>dog</username>  
+    <password>1234</password> 
+  </user>  
+  <user>
+    <username>p</username>
+    <password>p</password>
+  </user>
+</Users>
