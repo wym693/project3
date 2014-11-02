@@ -12,6 +12,8 @@ public class HelloWorld {
       System.out.println("Hello World!");
       //code from vm2
       System.out.println("Hello World!");
+      //code from guang
+      System.out.println("Hello World!");
       
 	}
 
